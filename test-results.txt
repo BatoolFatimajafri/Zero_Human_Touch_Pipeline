@@ -1,0 +1,19 @@
+
+ RUN  v1.6.1 /home/batoolfatima/Documents/batool_fatima/zero-human-touch-pipeline/workspace/MDP-VOYANA/output
+
+stderr | src/test/app.test.tsx > TripBuilder > renders the form
+Warning: Function components cannot be given refs. Attempts to access this ref will fail. Did you mean to use React.forwardRef()?
+
+Check the render method of `TripBuilder`.
+    at div (/home/batoolfatima/Documents/batool_fatima/zero-human-touch-pipeline/workspace/MDP-VOYANA/output/src/test/app.test.tsx:4:13)
+    at div
+    at section
+    at TripBuilder (/home/batoolfatima/Documents/batool_fatima/zero-human-touch-pipeline/workspace/MDP-VOYANA/output/src/sections/TripBuilder.tsx:20:24)
+
+ ✓ src/test/app.test.tsx  (13 tests) 2351ms
+
+ Test Files  1 passed (1)
+      Tests  13 passed (13)
+   Start at  16:37:09
+   Duration  4.07s (transform 193ms, setup 100ms, collect 404ms, tests 2.35s, environment 556ms, prepare 222ms)
+
